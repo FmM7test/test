@@ -1,10 +1,3 @@
-.voice_avatar {
-  border-radius: 0px;
-  filter: brightness(70%);
-  width: 128px;
-  height: 128px;
-}
-
 @import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/-obs.css");
 @import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/-scrollbar.css");
 @import url("https://yudukiak.github.io/ccfoliaCSS/CSS/asset/balloon.css");
