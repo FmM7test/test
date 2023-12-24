@@ -1,7 +1,5 @@
 p {
-  position: relative;
-  font-size: 100px;
-  animation: 1000ms infinite jump;
+  font-size: 200px;
 }
 
 .voice_avatar {
@@ -9,21 +7,4 @@ p {
   filter: brightness(70%);
   width: 128px;
   height: 128px;
-}
-[class*="Speaking"] {
-  position: relative;
-  animation: 500ms infinite ease-in-out jump;
-  filter: brightness(100%);
-  border-color: transparent;
-}
-@keyframes jump {
-  0% {
-    bottom: 0px;
-  }
-  50% {
-    bottom: 10px;
-  }
-  100% {
-    bottom: 0px;
-  }
 }
